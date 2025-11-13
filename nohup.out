@@ -1,0 +1,2 @@
+/var/www/html/dumpsterrental-chulavista/dumpsterrental-chulavista.py:48: SyntaxWarning: invalid escape sequence '\s'
+  processing_handler= '''<div id="output"></div>
